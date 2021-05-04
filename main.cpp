@@ -13,4 +13,6 @@ int main()
     cout<<"Sum= "<<c<<endl;
     c=a-b;
     cout<<"Difference= "<<c<<endl;
+    c=a/b;
+    cout<<"Division= "<<c<<endl;
 }
