@@ -10,4 +10,6 @@ int main()
     int c;
     c=a+b;
     cout<<"Sum= "<<c<<endl;
+    c=a-b;
+    cout<<"Difference= "<<c<<endl;
 }
